@@ -21,5 +21,5 @@ Japanese creature (probably)
 ## links
 * [Twitter (@Kig_OsumiAkari)](https://twitter.com/Kig_OsumiAkari)
 * Wikimedia Project
-** [Meta](https://w.wiki/73H)
-** [Japanese Wikipedia](https://w.wiki/BVv)
+  * [Meta](https://w.wiki/73H)
+  * [Japanese Wikipedia](https://w.wiki/BVv)
