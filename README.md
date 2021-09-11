@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 # Osumi Akari / 大隅あかり
 Japanese creature (probably)
 
+## Batches
+![GitHub followers](https://img.shields.io/github/followers/Osumi-Akari?style=social)
+[![Osumi_Akari](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FOsumi_Akari)](https://atcoder.jp/users/Osumi_Akari)
+
 ## links
 * [Twitter (@Kig_OsumiAkari)](https://twitter.com/Kig_OsumiAkari)
 * Wikimedia Project
