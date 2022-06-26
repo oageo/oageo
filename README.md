@@ -27,3 +27,4 @@ Japanese creature (probably)
 * Wikimedia Project
   * [Meta](https://w.wiki/73H)
   * [Japanese Wikipedia](https://w.wiki/BVv)
+* [Osumi Akari.jp](https://osumiakari.jp)
