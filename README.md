@@ -22,8 +22,9 @@ Japanese creature (probably)
 ![GitHub followers](https://img.shields.io/github/followers/Osumi-Akari?style=social)
 [![Osumi_Akari](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FOsumi_Akari)](https://atcoder.jp/users/Osumi_Akari)
 
-## links
+## Links
 * [Twitter (@Kig_OsumiAkari)](https://twitter.com/Kig_OsumiAkari)
+* [Hatena](https://profile.hatena.ne.jp/oageo/)
 * Wikimedia Project
   * [Meta](https://w.wiki/73H)
   * [Japanese Wikipedia](https://w.wiki/BVv)
