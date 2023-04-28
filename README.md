@@ -29,3 +29,7 @@ Japanese creature (probably)
   * [Meta](https://w.wiki/73H)
   * [Japanese Wikipedia](https://w.wiki/BVv)
 * [Osumi Akari.jp](https://www.osumiakari.jp)
+
+## Infomation
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oageo&theme=github_dark_dimmed&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oageo&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
