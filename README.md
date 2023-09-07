@@ -29,7 +29,7 @@ Japanese creature (probably)
   * [Meta](https://w.wiki/73H)
   * [Japanese Wikipedia](https://w.wiki/BVv)
 * [Osumi Akari.jp](https://www.osumiakari.jp)
-* [Calckey](https://c.osumiakari.jp/@oageo)
+* [Firefish](https://c.osumiakari.jp/@oageo)
 
 ## Infomation
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oageo&theme=github_dark_dimmed&show_icons=true)
