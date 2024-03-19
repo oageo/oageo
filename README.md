@@ -29,9 +29,10 @@ Japanese creature (probably)
   * [Meta](https://w.wiki/73H)
   * [Japanese Wikipedia](https://w.wiki/BVv)
 * [Osumi Akari.jp](https://www.osumiakari.jp)
-* [Firefish](https://c.osumiakari.jp/@oageo)
+ * [About page](https://www.osumiakari.jp/about/)
+* [Firefish (@oageo@c.osumiakari.jp)](https://c.osumiakari.jp/@oageo)
 
 ## Infomation
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oageo&theme=github_dark_dimmed&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oageo&theme=github_dark_dimmed&exclude_repo=energytycoon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oageo&langs_count=10&theme=github_dark_dimmed&exclude_repo=energytycoon)](https://github.com/anuraghazra/github-readme-stats)
 [![most-commit-language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oageo&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
