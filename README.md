@@ -30,7 +30,7 @@ Japanese creature (probably)
   * [Japanese Wikipedia](https://w.wiki/BVv)
 * [Osumi Akari.jp](https://www.osumiakari.jp)
   * [About page](https://www.osumiakari.jp/about/)
-* [Firefish (@oageo@c.osumiakari.jp)](https://c.osumiakari.jp/@oageo)
+* [Iceshrimp (@oageo@c.osumiakari.jp)](https://c.osumiakari.jp/@oageo)
 
 ## Infomation
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oageo&theme=github_dark_dimmed&show_icons=true)
